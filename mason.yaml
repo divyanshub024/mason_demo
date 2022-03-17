@@ -1,0 +1,6 @@
+# Register bricks which can be consumed via the Mason CLI.
+# https://github.com/felangel/mason
+bricks:
+  #Bricks
+  cubit:
+    path: bricks/cubit
