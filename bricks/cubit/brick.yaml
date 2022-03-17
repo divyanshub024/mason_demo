@@ -24,3 +24,8 @@ vars:
     description: Cubit name
     default: Dash
     prompt: What's the cubit name?
+  useEquatable:
+    type: boolean
+    description: Use Equatable
+    default: false
+    prompt: Do you want to use Equatable?
